@@ -1,0 +1,8 @@
+selenium==3.141.0
+pytest==6.2.0
+allure-pytest==2.9.43
+pytest-xdist==2.4.0
+webdriver-manager==3.5.0
+requests~=2.27.1
+urllib3~=1.26.9
+seletools==1.2.1
